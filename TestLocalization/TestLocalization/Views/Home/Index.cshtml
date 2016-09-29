@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = @Resources.Home.TitleHomePage;
+}
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">@Resources.Home.TextJumbo</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">@Html.Raw(Resources.Home.TextLearnMore)</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>@Resources.Home.TextGettingStartedHeading</h2>
+        <p>
+            @Resources.Home.TextGettingStartedCaption
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">@Html.Raw(Resources.Home.TextLearnMore)</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Resources.Home.TextGetMoreLibrariesHeading</h2>
+        <p>@Resources.Home.TextGetMoreLibrariesCaption</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">@Html.Raw(Resources.Home.TextLearnMore)</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Resources.Home.TextWebHostingHeading</h2>
+        <p>@Resources.Home.TextWebHostingCaption</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">@Html.Raw(Resources.Home.TextLearnMore)</a></p>
+    </div>
+</div>
