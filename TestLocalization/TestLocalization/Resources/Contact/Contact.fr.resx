@@ -117,19 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FooterLanguageText" xml:space="preserve">
-    <value>Sprache</value>
+  <data name="TextContactCaption" xml:space="preserve">
+    <value>Votre page de contact.</value>
   </data>
-  <data name="MenuBrand" xml:space="preserve">
-    <value>Anwendungsname</value>
+  <data name="TextContactHeader" xml:space="preserve">
+    <value>Contact</value>
   </data>
-  <data name="MenuLinkAbout" xml:space="preserve">
-    <value>Etwa</value>
+  <data name="TextMarketing" xml:space="preserve">
+    <value>Commercialisation</value>
   </data>
-  <data name="MenuLinkContact" xml:space="preserve">
-    <value>Kontakt</value>
-  </data>
-  <data name="MenuLinkHome" xml:space="preserve">
-    <value>Zuhause</value>
+  <data name="TextSupport" xml:space="preserve">
+    <value>Soutien</value>
   </data>
 </root>

@@ -117,19 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FooterLanguageText" xml:space="preserve">
-    <value>Sprache</value>
+  <data name="TextGetMoreLibrariesCaption" xml:space="preserve">
+    <value>NuGet est une extension de Visual Studio gratuit qui le rend facile à ajouter, supprimer et mettre à jour des bibliothèques et des outils dans des projets Visual Studio.</value>
   </data>
-  <data name="MenuBrand" xml:space="preserve">
-    <value>Anwendungsname</value>
+  <data name="TextGetMoreLibrariesHeading" xml:space="preserve">
+    <value>Obtenez plus de bibliothèques</value>
   </data>
-  <data name="MenuLinkAbout" xml:space="preserve">
-    <value>Etwa</value>
+  <data name="TextGettingStartedCaption" xml:space="preserve">
+    <value>ASP.NET MVC vous donne, d'une manière axée sur les modèles-puissant pour construire des sites Web dynamiques qui permettent une séparation nette des préoccupations et vous donne le plein contrôle sur le balisage pour le développement agile agréable.</value>
   </data>
-  <data name="MenuLinkContact" xml:space="preserve">
-    <value>Kontakt</value>
+  <data name="TextGettingStartedHeading" xml:space="preserve">
+    <value>Commencer</value>
   </data>
-  <data name="MenuLinkHome" xml:space="preserve">
-    <value>Zuhause</value>
+  <data name="TextJumbo" xml:space="preserve">
+    <value>ASP.NET est un framework web libre pour la construction de grands sites Web et des applications Web en utilisant HTML, CSS et JavaScript.</value>
+  </data>
+  <data name="TextLearnMore" xml:space="preserve">
+    <value>Apprendre encore plus &amp;raquo;</value>
+  </data>
+  <data name="TextWebHostingCaption" xml:space="preserve">
+    <value>Vous pouvez facilement trouver une société d'hébergement Web qui offre la bonne combinaison de fonctionnalités et de prix pour vos applications.</value>
+  </data>
+  <data name="TextWebHostingHeading" xml:space="preserve">
+    <value>Hébergement Web</value>
+  </data>
+  <data name="TitleHomePage" xml:space="preserve">
+    <value>page d'accueil</value>
   </data>
 </root>

@@ -61,6 +61,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language.
+        /// </summary>
+        public static string FooterLanguageText {
+            get {
+                return ResourceManager.GetString("FooterLanguageText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Application Name.
         /// </summary>
         public static string MenuBrand {

@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FooterLanguageText" xml:space="preserve">
-    <value>Sprache</value>
+    <value>La langue</value>
   </data>
   <data name="MenuBrand" xml:space="preserve">
-    <value>Anwendungsname</value>
+    <value>Nom de l'application</value>
   </data>
   <data name="MenuLinkAbout" xml:space="preserve">
-    <value>Etwa</value>
+    <value>Sur</value>
   </data>
   <data name="MenuLinkContact" xml:space="preserve">
-    <value>Kontakt</value>
+    <value>Contact</value>
   </data>
   <data name="MenuLinkHome" xml:space="preserve">
-    <value>Zuhause</value>
+    <value>Accueil</value>
   </data>
 </root>

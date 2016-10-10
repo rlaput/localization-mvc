@@ -117,19 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FooterLanguageText" xml:space="preserve">
-    <value>Sprache</value>
+  <data name="TextAboutCaption1" xml:space="preserve">
+    <value>Votre page de description de l'application.</value>
   </data>
-  <data name="MenuBrand" xml:space="preserve">
-    <value>Anwendungsname</value>
+  <data name="TextAboutCaption2" xml:space="preserve">
+    <value>Utilisez cette zone pour fournir des informations supplémentaires.</value>
   </data>
-  <data name="MenuLinkAbout" xml:space="preserve">
-    <value>Etwa</value>
-  </data>
-  <data name="MenuLinkContact" xml:space="preserve">
-    <value>Kontakt</value>
-  </data>
-  <data name="MenuLinkHome" xml:space="preserve">
-    <value>Zuhause</value>
+  <data name="TextAboutHeader" xml:space="preserve">
+    <value>Sur</value>
   </data>
 </root>

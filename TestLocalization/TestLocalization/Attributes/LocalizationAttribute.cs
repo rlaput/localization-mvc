@@ -32,6 +32,8 @@ namespace TestLocalization.Attributes
             {
                 Thread.CurrentThread.CurrentCulture =
                 Thread.CurrentThread.CurrentUICulture = new CultureInfo(lang);
+
+                filterContext.Controller.ViewBag.SelectedLanguage = lang;
             }
             catch (Exception e)
             {
